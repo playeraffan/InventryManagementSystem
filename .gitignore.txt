@@ -1,0 +1,12 @@
+# Ignore VS folder
+.vs/
+*.suo
+*.user
+
+# Ignore build folders
+bin/
+obj/
+
+# Others
+*.log
+*.tmp
